@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "9fb63e7202f0c7aab713400dd51f7e8dd29a001b4219cba1a39b605506f3d19b"
+            "sha256": "3d6bac1100a4aa18d8263281061d4459bfd370430682a852c55576dba4f91778"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -123,6 +123,10 @@
         "cb-django-video-uploader": {
             "editable": true,
             "path": "./modules/django_video_uploader"
+        },
+        "cb-terms-and-conditions": {
+            "editable": true,
+            "path": "./modules/terms_and_conditions"
         },
         "certifi": {
             "hashes": [
